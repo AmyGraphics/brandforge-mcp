@@ -1,0 +1,32 @@
+{
+  "name": "brandforge-mcp",
+  "version": "1.0.0",
+  "description": "BrandForge - Autonomous Personal Brand & Audience Engineering, Platform Content Systems, Hooks & Formats, Audience Growth Engines & Honest Monetization MCP. Engineers personal brands with the positioning intersection (know x prove x attention) and 90-day roadmaps, platform-native content systems (X, LinkedIn, YouTube, newsletters) with sustainable cadences and idea banks, hook and format craft (six honest patterns, thread structures, short-video retention curves, save-worthy carousels), audience growth engines (distribution mechanics, peer cohorts, repurposing systems, owned-list capture), and honest monetization (services, digital products, sponsorship rate math, the 95/5 trust ratio).",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "personal-brand",
+    "audience-building",
+    "content-creation",
+    "creator-economy",
+    "social-media",
+    "twitter",
+    "linkedin",
+    "youtube",
+    "newsletter",
+    "hooks",
+    "content-strategy",
+    "audience-growth",
+    "monetization",
+    "build-in-public",
+    "cursor",
+    "claude"
+  ],
+  "homepage": "https://mcp-hub.agentweb-hub.workers.dev/mcp/brandforge",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AmyGraphics/brandforge-mcp"
+  },
+  "author": "AmyGraphics",
+  "license": "MIT"
+}
