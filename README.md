@@ -20,11 +20,11 @@ Streamable HTTP MCP — works with Cursor, Claude Code, Claude Desktop, Windsurf
 
 | Tool | What it does |
 |------|-------------|
-| `autonomous_personal_brand_architect` | Full brand strategy in one call: the positioning intersection (know × prove × attention), platform selection by where buyers scroll, the 3-pillar recognizability system, stage diagnosis (no presence / no growth / no money / plateau), and a 90-day roadmap from invisible to in-demand |
-| `engineer_platform_content_system` | Platform mechanics decoded for 2026 (X velocity-and-replies, LinkedIn dwell-time, YouTube CTR-and-retention, newsletter deliverability), sustainable cadences by honest time budget, pillar-rotation calendars with idea banks and evergreen banks, and packaging rules that double reach on identical ideas |
-| `craft_hooks_formats_that_spread` | The six honest hook patterns with before/after rewrites (and the clickbait line never crossed), thread structures with payoff-per-paragraph, short-video scripts (3-second hooks, re-hooks every 7-10s), save-worthy carousel formats, calibrated to beginner vs practitioner audiences |
-| `build_audience_growth_engine` | Distribution mechanics (velocity windows, reply weight, silent killers), strategic networking without cringe (peer cohorts, the value-first ladder), the repurposing engine (one deep piece → 10 native assets), and owned-audience capture — sequenced by size from under 1k to over 10k |
-| `monetize_audience_honestly` | Services (authority-to-pipeline bridges, productized entries), digital products (audience-informed selection, build-in-public presales, list-first launches), sponsorships (engagement-based rate math, the editorial line), the full ladder by stage, and the 95/5 trust mathematics that outearns constant selling |
+| `brand.architect` | Full brand strategy in one call: the positioning intersection (know × prove × attention), platform selection by where buyers scroll, the 3-pillar recognizability system, stage diagnosis (no presence / no growth / no money / plateau), and a 90-day roadmap from invisible to in-demand |
+| `brand.content_system` | Platform mechanics decoded for 2026 (X velocity-and-replies, LinkedIn dwell-time, YouTube CTR-and-retention, newsletter deliverability), sustainable cadences by honest time budget, pillar-rotation calendars with idea banks and evergreen banks, and packaging rules that double reach on identical ideas |
+| `brand.hooks` | The six honest hook patterns with before/after rewrites (and the clickbait line never crossed), thread structures with payoff-per-paragraph, short-video scripts (3-second hooks, re-hooks every 7-10s), save-worthy carousel formats, calibrated to beginner vs practitioner audiences |
+| `brand.growth` | Distribution mechanics (velocity windows, reply weight, silent killers), strategic networking without cringe (peer cohorts, the value-first ladder), the repurposing engine (one deep piece → 10 native assets), and owned-audience capture — sequenced by size from under 1k to over 10k |
+| `brand.monetization` | Services (authority-to-pipeline bridges, productized entries), digital products (audience-informed selection, build-in-public presales, list-first launches), sponsorships (engagement-based rate math, the editorial line), the full ladder by stage, and the 95/5 trust mathematics that outearns constant selling |
 
 ## ⚡ Quick Start (Cursor / Claude Code)
 
@@ -38,7 +38,7 @@ Streamable HTTP MCP — works with Cursor, Claude Code, Claude Desktop, Windsurf
 }
 ```
 
-## 🔴 NEW in v1.1 — Live Tool: `check_brand_handle_live`
+## 🔴 NEW in v1.1 — Live Tool: `brand.check_handle_live`
 
 Checks a brand handle LIVE: GitHub username availability via the official API plus .com/.dev domain DNS existence via Google DoH - real lookups, no API key.
 
