@@ -38,6 +38,12 @@ Streamable HTTP MCP — works with Cursor, Claude Code, Claude Desktop, Windsurf
 }
 ```
 
+## 🔴 NEW in v1.1 — Live Tool: `check_brand_handle_live`
+
+Checks a brand handle LIVE: GitHub username availability via the official API plus .com/.dev domain DNS existence via Google DoH - real lookups, no API key.
+
+No API key needed — works out of the box.
+
 ## 💰 Pricing
 
 **Start free — 10 requests/day, no signup, no card.** Upgrade only if it earns a place in your workflow.
